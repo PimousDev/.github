@@ -7,7 +7,7 @@ A development studio of **open-source**, **free** and **environmentally** friend
 </div>
 
 ### 📜 Our key points :
->- Based on our own universal conventions.
+>- Based on our own [universal conventions](https://www.github.com/PimousDev/Conventions).
 >- Open-source and free under [`GNU-LGPL`](https://choosealicense.com/licenses/lgpl-3.0/) or [`CC-BY-SA`](https://choosealicense.com/licenses/cc-by-sa-4.0/) license.
 >- In many fields from back-end to front-end.
 >- Environmentally friendly as possible.
